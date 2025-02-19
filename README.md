@@ -1,5 +1,5 @@
-# Cyber-Security-Course
-## Fundamentals of Cyber Security Course - Spring 2024
+# Cyber-Security-course
+## Fundamentals of Cyber Security course - Spring 2024
 This repository is for practical homework in the Cyber Security course.
 
 HW1: a Covert Channel (C2).
